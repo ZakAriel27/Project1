@@ -1,0 +1,1 @@
+Bon, il s'agit d'une ébauche. J'ai donc préféré le mettre dans une branche séparée pour ne pas avoir de pression de l'éditeur.
