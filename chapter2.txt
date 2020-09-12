@@ -1,1 +1,2 @@
 Et voici le chapitre 2 encore plus palpitant.
+Voici une nouvelle intrique depuis le rattachement au remote repository.
