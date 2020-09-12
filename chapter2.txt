@@ -1,2 +1,3 @@
 Et voici le chapitre 2 encore plus palpitant.
 Voici une nouvelle intrique depuis le rattachement au remote repository.
+Je complète ce chapitre 2 après avoir créé une branche pour chapter3 et je vais faire un commit puis un push pour voir si le push concerne uniquement cette branche ou toutes les branches de mon local repository.
